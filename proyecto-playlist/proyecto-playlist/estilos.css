@@ -1,0 +1,20 @@
+body{
+    background-image: url('bobcholo.jpg');
+}
+p{
+    color: #1F4AE6;
+}
+table{
+    background-color: rgba(255, 255, 255, 0.856);
+    border: 2px solid #2d8812be;
+border-collapse: collapse;
+}
+th{
+border: 2px solid #189341;
+}
+td{
+    color: #189341;
+    border: #189341;
+    border-collapse: collapse;
+    text-align: center;
+}
